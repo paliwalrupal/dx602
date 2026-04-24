@@ -1,0 +1,18 @@
+DX602 Final Project
+Residential Energy Consumption Analysis
+
+Dataset: Option 2 — Environmental / Energy (home_data_final.csv)
+
+Section 1: Introduction
+This project analyzes residential energy consumption data from the U.S. Energy Information Administration's
+Residential Energy Consumption Survey (RECS). The dataset contains 5,686 U.S. households and captures
+electricity usage, home characteristics, household demographics, and climate zone information.
+Purpose: Understand what factors drive residential electricity consumption and cost, and build a predictive model
+for household energy use.
+
+Questions I want to investigate:
+• How does electricity consumption vary across climate zones?
+• Does household size or square footage predict energy use?
+• What role does income play in energy consumption?
+• Can we predict KWH usage from home and household characteristics?
+
